@@ -1,0 +1,23 @@
+Entrar na planilha ou site
+Copiar informação de um campo e colar o seu campo correspondente 
+repetir esse processo para outros campos até preencher os campos daquela página 
+Clickar em próxima 
+repetir os mesmos passos e ir para a próxima página (página 2 )
+repetir os mesmos passos e finalizar o cadastro daquele produto e clickar em concluir
+Clickar em OK 
+Clickar outra vez em OK
+Se houver dados a serem aplicados, clickar em "adicionar mais um".
+*repetir*
+
+
+Tenho um formulário de controle de estoque para preencher, ele precisa colocar esses dados: _____
+Nome do produto: _____
+Descrição: _____
+Categoria: _____
+Código do produto: _____
+Peso (em kg): _____
+Dimensões (L x A x P):  _____
+
+Quero utilizar nossa aplicação para : Copiar informação de um campo e colar o seu campo correspondente 
+repetir esse processo para outros campos até preencher os campos daquela página 
+Clickar em próxima. Pode me ajudar a como posso fazer isso, lembrando que nessa aplicação, o mouse se movimentará sozinho e ira colar os dados respectivamente em cada local!
